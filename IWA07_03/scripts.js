@@ -30,4 +30,4 @@ const result = `\n${leo}\n${sarah}\n${divider}\n${divider}\n  Total amount owed:
 console.log(result);
 //i used 'Math.abs()' around 'leoBalanceNumber and 'sarhaBalanceNumber'
 //when constructing the strings for leo and sarah's owed amounts
-//this ensures that the displayed amounts are positive.
+//this ensures that the displayed amounts are positive..

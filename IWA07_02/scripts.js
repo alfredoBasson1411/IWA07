@@ -13,4 +13,4 @@ if (nickname) {
 //the variables wasnt properly interpolated
 // so i used the '${}' syntax inside a template literal
 //the logical OR Operator was treated as a string literal not as L.O.O
-//L.O.O is used for Boolean logic.
+//L.O.O is used for Boolean logic..
